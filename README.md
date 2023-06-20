@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! My name is Sam (he/him). 
+
+I come from a graphic design and video editing background. I'm very excited to enter the world of software development!
+Some fun facts about me are that I love playing video games, making music, and I know way too many facts about Sonic the Hedgehog.
+If you ever need to reach me, the best way is through my email (samvanben@gmail.com).
+
+Thanks for reading!
+
+Sam VanBennekom
